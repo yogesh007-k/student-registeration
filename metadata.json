@@ -1,0 +1,8 @@
+{
+  "name": "CampusConnect AI",
+  "description": "Discover. Connect. Experience Campus Life. Campus event discovery, student registration, and AI-powered organiser management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
